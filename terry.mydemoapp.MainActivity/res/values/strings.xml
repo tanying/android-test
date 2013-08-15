@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MyDemoApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">UI Demo</string>
+    <string name="rotate_resize_image">Rotate and Resize Images</string>
+    <string name="title_activity_rotate_resize">Rotate and Resize images</string>
+
+</resources>
