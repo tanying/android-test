@@ -1,5 +1,7 @@
 package terry.mydemoapp;
 
+//test git pull request
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
